@@ -1,4 +1,5 @@
 # noshadeberlin.github.io
-noshade.eu
 
-## girl power!
+this is a work in progress which will be hosted on noshade.eu.
+
+css framework used: http://getskeleton.com/
