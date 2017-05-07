@@ -1,0 +1,50 @@
+/**
+ TODO
+ button colors (evtl. size)
+ font change
+ add logo as background of column?
+ */
+
+.margin-top-one {
+  margin-top: 1rem;
+}
+
+.margin-top-three {
+  margin-top: 4rem;
+}
+
+.empty {
+  height: 1em;
+}
+
+.button.button-primary, button.button-primary, input[type="submit"].button-primary, input[type="reset"].button-primary, input[type="button"].button-primary {
+  color: #000;
+  background-color: #FFF;
+  border-color: #888;
+}
+
+.button.button-primary:hover, .button:hover, button:hover, input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover, .button:focus, button:focus, input[type="submit"]:focus, input[type="reset"]:focus, input[type="button"]:focus {
+  color: #FFF;
+  background-color: #222;
+  border-color: #222;
+}
+
+
+.centered {
+  text-align: center;
+}
+
+.smaller {
+  font-size: 1.25rem;
+}
+.really-small {
+  font-size: 1rem;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.social-img {
+  width: 3rem;
+}
